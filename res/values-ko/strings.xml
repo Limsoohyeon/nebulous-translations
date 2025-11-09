@@ -648,7 +648,7 @@
     <string name="Collect_5_000_raindrops_">"빗방울 5,000 개 수집하기"</string>
     <string name="Collect_10_000_raindrops_">"빗방울 10,000 개 수집하기"</string>
     <string name="Copy_Message">"메세지 복사"</string>
-    <string name="Copied_to_clipboard_">"클립 보드에 복사되었습니다."</string>
+    <string name="Copied_to_clipboard_">"클립보드에 복사되었습니다."</string>
     <string name="COPY_NAME">"이름 복사"</string>
     <string name="Challenge_Sent">"도전 전송"</string>
     <string name="_1v1_Challenge_">"1대1 도전!"</string>
